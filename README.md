@@ -16,3 +16,9 @@ This repository contains the Python code for a classic Snake game, implemented u
 ## Installation and Running the Game
 - Requires Python and the turtle module.
 - Clone the repository and run main.py.
+
+## License
+This project is licensed under the MIT License. For more details, see the LICENSE file in the repository.
+
+## Contribution
+Contributions are welcome. Please follow the contribution guidelines for pull requests.
