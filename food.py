@@ -1,6 +1,6 @@
 from turtle import Turtle
 from random import randint
-
+#just a comment
 class Food(Turtle):
     def __init__ (self):
         super().__init__()
